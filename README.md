@@ -6,3 +6,4 @@
 - [ x ] dia 4 - Adicionando laço de repetição.
 - [ x ] dia 5 -  Função que imprime o quadrado de um número.
 - [ x ] dia 6 -  Lista de frutas.
+- [ x ] dia 7 -  Dicionario de aluno.

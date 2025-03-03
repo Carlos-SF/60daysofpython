@@ -10,4 +10,5 @@
 - [ x ] dia 8 - Condicional para verificar se a pessoa pode dirigir.
 - [ x ] dia 9 - Contador personalizado.
 - [ x ] dia 10 - Gerador de snehas particular.
-- [ x ] dia 11 - Usando a função sorted para ordenar uma lista de numeros
+- [ x ] dia 11 - Usando a função sorted para ordenar uma lista de numeros.
+- [ x ] dia 12  - Busca linear.

@@ -9,3 +9,4 @@
 - [ x ] dia 7 -  Dicionario de aluno.
 - [ x ] dia 8 - Condicional para verificar se a pessoa pode dirigir.
 - [ x ] dia 9 - Contador personalizado.
+- [ x ] dia 10 - Gerador de snehas particular

@@ -16,4 +16,4 @@
 - [ x ] dia 14 - Números Primos.
 - [ x ] dia 15 - Fibonacci.
 - [ x ] dia 16 - Anagrama.
-- [ x ] dia 17 - Palimodro.
+- [ x ] dia 17 - Palindromo.

@@ -14,4 +14,4 @@ for i in range(2, int(numero ** 0.5) + 1): # testamso apenas até a raiz quadrad
 if eh_primo: 
     print(f'{numero} eh  numero priomo')
 else: 
-    print(f'{numero} não é um numero primo')
+    print(f'{numero} não é um numero primo') # tudo que não é primo 

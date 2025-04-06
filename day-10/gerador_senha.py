@@ -11,6 +11,6 @@ def gerador_de_senha(tamanho):
     while len(senha) < comprimento:
         senha += random.choice(caracteres)
     
-    print(f'Sua senha ficou assim : {senha}')
+    print(f'Sua senha ficou assim : {senha}') #print senha
     
 gerador_de_senha(9)

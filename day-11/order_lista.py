@@ -9,5 +9,6 @@ lista_num = [44,33,22,55,67,888,53,1,2,3,54,0,98]
 numero_ordenado = sorted(lista_num)
 numero_ordenado2 = sorted(lista_num, reverse = True)
 
-print(numero_ordenado)
+print(numero_ordenado) # ordenação
 print(numero_ordenado2)
+print(numero_ordenado2 + numero_ordenado )

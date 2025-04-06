@@ -20,4 +20,4 @@ def fatorial(n):
 try:
     print(f'Fatorial igual a {fatorial(12)}')
 except ValueError as e :
-    print(e) 
+    print(e) # prestar atenção no try 

@@ -21,6 +21,6 @@ print(buscando_o_numero)
 if buscando_o_numero != -1:
     print(f'O numero se entrado no indice : {buscando_o_numero}')
 else: 
-    print('Numero não encontrado')
+    print('Numero não encontrado é ')
 # for i, numero  in enumerate(['ackercode',1,2,3,4,5,6,7,8,9]):
 #     print(f'Indoce:  {i} e objeto {numero}')

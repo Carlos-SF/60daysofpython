@@ -12,5 +12,5 @@
 - [ x ] dia 10 - Gerador de snehas particular.
 - [ x ] dia 11 - Usando a função sorted para ordenar uma lista de numeros.
 - [ x ] dia 12 - Busca linear.
-- [ x] dia 13 - Funcão Fatorial
-- [ x] dia 14 - 
+- [ x]  dia 13 - Funcão Fatorial.
+- [ x ] dia 14 - Números Primos.

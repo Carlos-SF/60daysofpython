@@ -18,3 +18,4 @@
 - [ x ] dia 16 - Anagrama.
 - [ x ] dia 17 - Palindromo.
 - [ x ] dia 18 - Contabilizar palavras de uma string.
+- [ x ] dia 19- Calcular medida de notas .

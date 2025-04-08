@@ -19,3 +19,4 @@
 - [ x ] dia 17 - Palindromo.
 - [ x ] dia 18 - Contabilizar palavras de uma string.
 - [ x ] dia 19- Calcular medida de notas .
+- [ x ] dia 20- Matriz .

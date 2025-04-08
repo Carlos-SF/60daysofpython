@@ -20,3 +20,4 @@
 - [ x ] dia 18 - Contabilizar palavras de uma string.
 - [ x ] dia 19- Calcular medida de notas .
 - [ x ] dia 20- Matriz .
+- [ x ] dia 21- Conversor .

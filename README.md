@@ -25,3 +25,4 @@
 - [ x ] dia 23 - Jogo da Adivinhação .
 - [ x ] dia 24 - Tabuada.
 - [ x ] dia 25 - Gerador de numeros .
+- [ x ] dia 26 - Criando uma funcao para escrever em txt .

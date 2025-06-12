@@ -22,3 +22,5 @@
 - [ x ] dia 20- Matriz .
 - [ x ] dia 21- Conversor .
 - [ x ] dia 22 - Calculadora de imc .
+- [ x ] dia 23 - Jogo da Adivinhação .
+- [ x ] dia 24 - Tabuada.

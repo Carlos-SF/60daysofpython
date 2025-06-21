@@ -26,3 +26,4 @@
 - [ x ] dia 24 - Tabuada.
 - [ x ] dia 25 - Gerador de numeros .
 - [ x ] dia 26 - Criando uma funcao para escrever em txt .
+- [ x ] dia 27 - Conversor de temperatura.
